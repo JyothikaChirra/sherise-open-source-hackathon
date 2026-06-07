@@ -21,12 +21,12 @@ Sherise is a women safety platform that provides emergency support, reporting, c
 
 ## Installation
 
-git clone <repo-url>
+git clone <https://github.com/JyothikaChirra/sherise-open-source-hackathon>
 npm install
 npm run dev
 
 ## Live Demo
-<your deployed link>
+https://sherise-empower-protect.lovable.app/
 
 ## Author
 Jyothika Chirra
